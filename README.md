@@ -4,3 +4,6 @@
 * git add
 * git commit
 * git status
+* git log
+* 工作树，working tree
+* git restore
